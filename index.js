@@ -1,5 +1,5 @@
 const async = require('async')
-const request = require('request')
+const request = require('browser-request')
 
 module.exports = function (name, opts, cb) {
   if (typeof opts === 'function') {

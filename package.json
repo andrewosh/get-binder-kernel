@@ -23,7 +23,7 @@
   "homepage": "https://github.com/andrewosh/get-binder-kernel#readme",
   "dependencies": {
     "async": "^2.0.1",
-    "request": "^2.74.0"
+    "browser-request": "^0.3.3"
   },
   "devDependencies": {
     "tape": "^4.6.0"
